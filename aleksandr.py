@@ -1,14 +1,3 @@
-trin = 'HEloo world'
-
-print('trin')
-trin = 'HEloo world'
-
-print('trin')trin = 'HEloo world'
-
-print('trin')trin = 'HEloo world'
-
-print('trin')trin = 'HEloo world'
-
-print('trin')trin = 'HEloo world'
+trin = 'heloo world'
 
 print('trin')
